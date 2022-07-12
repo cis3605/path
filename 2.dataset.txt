@@ -1,5 +1,2 @@
-data = [[2, 81], [4, 93], [6, 91], [8, 97]]
-x = [i[0] for i in data]
-y = [i[1] for i in data]
-x_data = np.array(x)
-y_data = np.array(y)
+x_data = np.array([2,4,6,8])
+y_data = np.array([81,93,91,97])
